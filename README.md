@@ -3,6 +3,8 @@ a fully free youtube video downloader
 paste link to download, can choose available resolution and fps
 Prerequisites
 
+format comes in mp4 mkv etc...
+
 This app requires the following Python libraries:
 
     CustomTkinter: For the modern user interface.
